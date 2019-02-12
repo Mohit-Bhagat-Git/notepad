@@ -1,0 +1,14 @@
+.dateChangeBtn{
+    display: inline-block;
+    width: 76px;
+    border: 2px;
+    background-color: cyan;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.dateDisplay{
+    display: inline-block;
+    width: 76px;
+    border: 2px; 
+}
